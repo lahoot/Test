@@ -1,0 +1,11 @@
+h1 {
+    background-color: blue;
+    color: beige;
+    border-radius: 50%;
+    margin: auto;
+}
+p {
+    font-size: 2rem;
+    background-color: aqua;
+    color: brown;
+}
